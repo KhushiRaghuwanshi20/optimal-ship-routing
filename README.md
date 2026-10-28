@@ -3,7 +3,7 @@
    Finds the shortest safe maritime route across the Arabian Sea using a
    custom A* search, avoiding coastline and storm zones.
 
-   **Live demo:** (add your Streamlit link here)
+   **Live demo:** https://optimal-ship-routinggit-gsbvdmmhqys7u6fuyez8ie.streamlit.app/
 
    ## Features
    - Custom A* implementation (heapq priority queue, haversine heuristic)
